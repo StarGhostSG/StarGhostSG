@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @StarGhostSG
 - 👀 I’m interested in dev and games
 - 🌱 I’m currently learning dev-web
-- 💞️ I’m looking to collaborate on nothing specialy
-- 📫 How to reach me discord StarGhost-#8077
+- 📫 How to reach me discord StarGhost#8077
 
 <!---
 StarGhostSG/StarGhostSG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
